@@ -205,7 +205,7 @@ graphics related files in other ~{strata~}.
 Next, run
 
 - {class="rcmd"}
-- strat -r ~(stratum~) sh ./NVIDIA-Linux-~(arch~)-~(versino~).run --no-kernel-module
+- strat -r ~(stratum~) sh ./NVIDIA-Linux-~(arch~)-~(version~).run --no-kernel-module
 
 for all remaining ~(strata~) that require graphics drivers.
 
