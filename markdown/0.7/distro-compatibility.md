@@ -31,7 +31,7 @@ confidence in the "Known Issues" column's accuracy and recency.
 | ~+OpenWRT        | ~!Very Low      | ~%N/A        | ~^Unmaintained | ~!N/A      |
 | ~+Pop!\_OS       | ~^Low           | ~^hidden init menu [†](#popos) | ~!No           | ~!N/A      |
 | ~+QubesOS        | ~!None          | ~%N/A        | ~!No           | ~!N/A      |
-| ~+Raspbian       | ~!Medium        | ~%N/A        | ~%Yes          | ~%paradigm |
+| ~+Raspbian       | ~^Medium        | ~%N/A        | ~%Yes          | ~%paradigm |
 | ~+Slackware      | ~^Low           | ~!BSD-style SysV init [†](feature-compatibility.html#bsd-style-sysv) | ~^Unmaintained | ~!N/A |
 | ~+Solus          | ~!Very Low      | ~!stateless [†](#solus) | ~^Unmaintained | ~!N/A |
 | ~+Ubuntu         | ~%Very High     | ~%N/A        | ~%Yes          | ~%paradigm |
